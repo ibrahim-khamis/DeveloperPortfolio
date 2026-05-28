@@ -170,5 +170,10 @@ img{
         align-items:center;
     }
 
+    .logo-title{
+        flex-direction:row;
+        
+    }
+
 
 }
